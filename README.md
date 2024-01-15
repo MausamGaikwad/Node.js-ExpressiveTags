@@ -26,7 +26,7 @@ This project is a simple example demonstrating the usage of EJS (Embedded JavaSc
 - Visit http://localhost:3000 in your web browser to view the rendered page.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](LICENSE).
 
 ## Author
 
