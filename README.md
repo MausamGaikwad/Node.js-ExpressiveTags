@@ -9,7 +9,7 @@ This project is a simple example demonstrating the usage of EJS (Embedded JavaSc
 3. README.md: Project documentation file.
 
 ## Getting Started
-1. Clone the repository: ``git clone [https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git](https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git)``
+1. Clone the repository: ``git clone [https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git]``
 2. Install dependencies: npm install
 3. Run the application: npm start
 
