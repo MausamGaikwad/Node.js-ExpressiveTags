@@ -2,12 +2,13 @@
 Overview
 This project is a simple example demonstrating the usage of EJS (Embedded JavaScript) tags in a Node.js web application using the Express framework. EJS allows for dynamic content generation and rendering on the server side.
 
-Project Structure
-index.js: Main server file where Express is configured and the main route is defined.
-views/index.ejs: EJS template file for rendering HTML content with dynamic data.
-views/footer.ejs: EJS template file for rendering the footer section.
-README.md: Project documentation file.
-Getting Started
+## Project Structure
+1. index.js: Main server file where Express is configured and the main route is defined.
+2. views/index.ejs: EJS template file for rendering HTML content with dynamic data.
+3. views/footer.ejs: EJS template file for rendering the footer section.
+3. README.md: Project documentation file.
+
+## Getting Started
 Clone the repository: ``git clone [https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git](https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git)``
 Install dependencies: npm install
 Run the application: npm start
