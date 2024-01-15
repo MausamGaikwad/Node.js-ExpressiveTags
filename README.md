@@ -1,4 +1,4 @@
-## Project Title: EJS Tags Example
+# Project Title: EJS Tags Example
 Overview
 This project is a simple example demonstrating the usage of EJS (Embedded JavaScript) tags in a Node.js web application using the Express framework. EJS allows for dynamic content generation and rendering on the server side.
 
