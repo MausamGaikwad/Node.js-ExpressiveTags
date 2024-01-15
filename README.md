@@ -20,14 +20,17 @@ HTML Content Rendering: Demonstrates the use of <%- %> tag to render HTML conten
 
 Footer Inclusion: The project includes a common footer using <%- include("footer.ejs") %>.
 
-Usage
+## Usage
 Visit http://localhost:3000 in your web browser to view the rendered page.
 License
 This project is licensed under the MIT License.
 
-Author
+## Author
+
 Mausam Gaikwad
-Acknowledgments
-This project was created as an educational example for using EJS tags in a Node.js web application.
-The project structure and code are kept simple for learning purposes.
+
+## Acknowledgments
+- This project was created as an educational example for using EJS tags in a Node.js web application.
+- The project structure and code are kept simple for learning purposes.
+
 Feel free to fork, modify, and use this project as a starting point for your own Node.js and EJS projects. If you encounter any issues or have suggestions for improvement, please create an issue or submit a pull request. Happy coding!
