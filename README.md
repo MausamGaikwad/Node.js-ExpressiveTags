@@ -14,17 +14,18 @@ This project is a simple example demonstrating the usage of EJS (Embedded JavaSc
 3. Run the application: ``npm start``
 
 ## Features
-Dynamic Content Rendering: The application dynamically renders a webpage with data such as title, current seconds, a list of items, and HTML content.
+- Dynamic Content Rendering: The application dynamically renders a webpage with data such as title, current seconds, a list of items, and HTML content.
 
-Conditional Rendering: The list of items is conditionally displayed based on whether the current seconds are even or odd.
+- Conditional Rendering: The list of items is conditionally displayed based on whether the current seconds are even or odd.
 
-HTML Content Rendering: Demonstrates the use of <%- %> tag to render HTML content.
+- HTML Content Rendering: Demonstrates the use of <%- %> tag to render HTML content.
 
-Footer Inclusion: The project includes a common footer using <%- include("footer.ejs") %>.
+- Footer Inclusion: The project includes a common footer using <%- include("footer.ejs") %>.
 
 ## Usage
-Visit http://localhost:3000 in your web browser to view the rendered page.
-License
+- Visit http://localhost:3000 in your web browser to view the rendered page.
+
+## License
 This project is licensed under the MIT License.
 
 ## Author
@@ -35,4 +36,4 @@ Mausam Gaikwad
 - This project was created as an educational example for using EJS tags in a Node.js web application.
 - The project structure and code are kept simple for learning purposes.
 
-Feel free to fork, modify, and use this project as a starting point for your own Node.js and EJS projects. If you encounter any issues or have suggestions for improvement, please create an issue or submit a pull request. Happy coding!
+**Feel free to fork, modify, and use this project as a starting point for your own Node.js and EJS projects. If you encounter any issues or have suggestions for improvement, please create an issue or submit a pull request. Happy coding!**
