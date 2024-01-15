@@ -9,10 +9,11 @@ This project is a simple example demonstrating the usage of EJS (Embedded JavaSc
 3. README.md: Project documentation file.
 
 ## Getting Started
-Clone the repository: ``git clone [https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git](https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git)``
-Install dependencies: npm install
-Run the application: npm start
-Features
+1. Clone the repository: ``git clone [https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git](https://github.com/MausamGaikwad/Node.js-ExpressiveTags.git)``
+2. Install dependencies: npm install
+3. Run the application: npm start
+
+## Features
 Dynamic Content Rendering: The application dynamically renders a webpage with data such as title, current seconds, a list of items, and HTML content.
 
 Conditional Rendering: The list of items is conditionally displayed based on whether the current seconds are even or odd.
